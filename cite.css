@@ -2,7 +2,28 @@
 }
 
 p{
-    color:mediumvioletred;
+    color:black;
     font-family: Ariel;
     font-size: 18px;
+}
+
+.funkyFresh {
+    color: darkred;
+    font-family: 'Franklin Gothic';
+    font-size: 22px;
+}
+#theThird{
+    color: blueviolet;
+}
+h1, h3, h6{
+    font-family: 'Comic Sans MS';
+}
+ol li{
+    font-size: 15px;
+    text-decoration: wavy;
+}
+head  {
+    font-family: 'Modak', cursive;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-family: 'Dancing Script', cursive;
 }
